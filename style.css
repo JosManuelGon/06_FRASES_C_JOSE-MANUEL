@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700&family=Yellowtail&display=swap');
+*{
+    font-family: "Titillium Web";
+    margin: 2;
+    padding: 2;
+}
+.cuadrado{
+    padding: 30px;
+
+    background-color: #eea057;
+    color: rgb(100,50,3);
+}
+
+section {
+    padding-left: 15%;
+    padding-right:15%;
+}
+
+#frase {
+    color:rgb(250,94,4);
+    font-size:32px;
+    font-weight: bold;
+}
+body{
+    background-color: #fdd7c6;
+}
+button{
+    border-bottom: #eea057;
+    background-color: #884f1a;
+    font-size: 20px;
+}
